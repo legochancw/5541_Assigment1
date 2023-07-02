@@ -1,0 +1,159 @@
+/Users/lego/opt/anaconda3/envs/torch_nightly_env/bin/python /Users/lego/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/231.9161.41/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py --mode=client --host=127.0.0.1 --port=62308
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['/Users/lego/PycharmProjects/5541_Assignment1'])
+PyDev console: starting.
+Python 3.9.16 (main, May 15 2023, 18:51:40)
+[Clang 14.0.6 ] on darwin
+runfile('/Users/lego/PycharmProjects/5541_Assignment1/main_q2b_nesterov.py', wdir='/Users/lego/PycharmProjects/5541_Assignment1')
+Files already downloaded and verified
+Files already downloaded and verified
+finish epoch 1 training in 108.7286 s
+finish epoch 1 testing in 25.0472 s
+[alexnet] finish epoch 1, train loss: 2.2796, test loss: 2.1894, train acc: 11.6520% , test acc: 21.3600%
+finish epoch 2 training in 125.7138 s
+finish epoch 2 testing in 21.9270 s
+[alexnet] finish epoch 2, train loss: 2.0271, test loss: 1.9462, train acc: 22.9760% , test acc: 28.5800%
+finish epoch 3 training in 153.5668 s
+finish epoch 3 testing in 21.8410 s
+[alexnet] finish epoch 3, train loss: 1.5946, test loss: 1.7357, train acc: 27.9600% , test acc: 35.3100%
+finish epoch 4 training in 131.5230 s
+finish epoch 4 testing in 24.3370 s
+[alexnet] finish epoch 4, train loss: 1.5634, test loss: 1.5688, train acc: 35.0060% , test acc: 41.3300%
+finish epoch 5 training in 104.7968 s
+finish epoch 5 testing in 29.8930 s
+[alexnet] finish epoch 5, train loss: 1.7483, test loss: 1.3992, train acc: 39.7820% , test acc: 47.6700%
+finish epoch 6 training in 163.2122 s
+finish epoch 6 testing in 20.0623 s
+[alexnet] finish epoch 6, train loss: 1.5005, test loss: 1.3504, train acc: 43.2180% , test acc: 49.7800%
+finish epoch 7 training in 165.9356 s
+finish epoch 7 testing in 31.3560 s
+[alexnet] finish epoch 7, train loss: 1.3193, test loss: 1.2513, train acc: 45.6500% , test acc: 53.8800%
+finish epoch 8 training in 112.5789 s
+finish epoch 8 testing in 32.5437 s
+[alexnet] finish epoch 8, train loss: 1.8104, test loss: 1.1916, train acc: 48.3840% , test acc: 56.7300%
+finish epoch 9 training in 147.1203 s
+finish epoch 9 testing in 19.9765 s
+[alexnet] finish epoch 9, train loss: 1.0806, test loss: 1.1124, train acc: 50.7860% , test acc: 59.7800%
+finish epoch 10 training in 202.1658 s
+finish epoch 10 testing in 29.4304 s
+[alexnet] finish epoch 10, train loss: 1.0738, test loss: 1.0807, train acc: 53.3620% , test acc: 60.8300%
+finish epoch 11 training in 177.7013 s
+finish epoch 11 testing in 30.6974 s
+[alexnet] finish epoch 11, train loss: 1.1533, test loss: 1.1095, train acc: 55.3720% , test acc: 60.3800%
+finish epoch 12 training in 147.7724 s
+finish epoch 12 testing in 25.1043 s
+[alexnet] finish epoch 12, train loss: 1.3365, test loss: 0.9938, train acc: 57.0880% , test acc: 64.4300%
+finish epoch 13 training in 183.5355 s
+finish epoch 13 testing in 23.0092 s
+[alexnet] finish epoch 13, train loss: 1.4895, test loss: 0.9671, train acc: 59.1860% , test acc: 65.4600%
+finish epoch 14 training in 164.1756 s
+finish epoch 14 testing in 30.8970 s
+[alexnet] finish epoch 14, train loss: 1.5488, test loss: 0.9119, train acc: 60.6360% , test acc: 67.0900%
+finish epoch 15 training in 180.2054 s
+finish epoch 15 testing in 31.7704 s
+[alexnet] finish epoch 15, train loss: 1.4546, test loss: 0.8737, train acc: 61.9860% , test acc: 68.5100%
+finish epoch 16 training in 221.1242 s
+finish epoch 16 testing in 29.7056 s
+[alexnet] finish epoch 16, train loss: 0.5321, test loss: 0.8609, train acc: 63.3220% , test acc: 68.8800%
+finish epoch 17 training in 175.9879 s
+finish epoch 17 testing in 29.9653 s
+[alexnet] finish epoch 17, train loss: 0.4097, test loss: 0.8043, train acc: 64.4500% , test acc: 71.3200%
+finish epoch 18 training in 198.0936 s
+finish epoch 18 testing in 18.7904 s
+[alexnet] finish epoch 18, train loss: 1.0745, test loss: 0.7810, train acc: 65.7380% , test acc: 72.2400%
+finish epoch 19 training in 226.7732 s
+finish epoch 19 testing in 32.0300 s
+[alexnet] finish epoch 19, train loss: 1.4146, test loss: 0.7818, train acc: 66.4960% , test acc: 72.0500%
+finish epoch 20 training in 170.8770 s
+finish epoch 20 testing in 30.4105 s
+[alexnet] finish epoch 20, train loss: 0.7214, test loss: 0.7627, train acc: 67.3260% , test acc: 73.1100%
+finish epoch 21 training in 209.2589 s
+finish epoch 21 testing in 32.6348 s
+[alexnet] finish epoch 21, train loss: 1.1011, test loss: 0.7810, train acc: 68.3540% , test acc: 72.4800%
+finish epoch 22 training in 191.2742 s
+finish epoch 22 testing in 31.0818 s
+[alexnet] finish epoch 22, train loss: 0.5034, test loss: 0.7263, train acc: 69.1040% , test acc: 74.6300%
+finish epoch 23 training in 174.9179 s
+finish epoch 23 testing in 24.8254 s
+[alexnet] finish epoch 23, train loss: 0.6729, test loss: 0.6936, train acc: 69.7900% , test acc: 75.9600%
+finish epoch 24 training in 223.5346 s
+finish epoch 24 testing in 29.9032 s
+[alexnet] finish epoch 24, train loss: 0.8797, test loss: 0.6717, train acc: 70.7980% , test acc: 76.5300%
+finish epoch 25 training in 180.4062 s
+finish epoch 25 testing in 29.7348 s
+[alexnet] finish epoch 25, train loss: 0.7187, test loss: 0.6828, train acc: 71.4860% , test acc: 76.3800%
+finish epoch 26 training in 199.0398 s
+finish epoch 26 testing in 19.0387 s
+[alexnet] finish epoch 26, train loss: 0.9292, test loss: 0.6684, train acc: 71.7800% , test acc: 77.1200%
+finish epoch 27 training in 232.5076 s
+finish epoch 27 testing in 32.1553 s
+[alexnet] finish epoch 27, train loss: 0.6105, test loss: 0.6624, train acc: 72.2620% , test acc: 77.0800%
+finish epoch 28 training in 172.7709 s
+finish epoch 28 testing in 28.4305 s
+[alexnet] finish epoch 28, train loss: 0.7252, test loss: 0.6406, train acc: 72.7680% , test acc: 78.2300%
+finish epoch 29 training in 217.8444 s
+finish epoch 29 testing in 18.1008 s
+[alexnet] finish epoch 29, train loss: 1.1131, test loss: 0.6185, train acc: 73.4400% , test acc: 78.8900%
+finish epoch 30 training in 208.1789 s
+finish epoch 30 testing in 32.4227 s
+[alexnet] finish epoch 30, train loss: 0.4869, test loss: 0.6356, train acc: 73.7540% , test acc: 78.3300%
+finish epoch 31 training in 192.1424 s
+finish epoch 31 testing in 28.9228 s
+[alexnet] finish epoch 31, train loss: 0.5772, test loss: 0.6054, train acc: 74.3460% , test acc: 79.3000%
+finish epoch 32 training in 215.5808 s
+finish epoch 32 testing in 28.2021 s
+[alexnet] finish epoch 32, train loss: 0.5781, test loss: 0.6159, train acc: 74.5380% , test acc: 79.0200%
+finish epoch 33 training in 184.5339 s
+finish epoch 33 testing in 31.0963 s
+[alexnet] finish epoch 33, train loss: 1.1014, test loss: 0.5703, train acc: 74.9700% , test acc: 80.5500%
+finish epoch 34 training in 146.1004 s
+finish epoch 34 testing in 27.2179 s
+[alexnet] finish epoch 34, train loss: 0.6190, test loss: 0.5853, train acc: 75.4700% , test acc: 79.9100%
+finish epoch 35 training in 177.3335 s
+finish epoch 35 testing in 17.5000 s
+[alexnet] finish epoch 35, train loss: 1.0178, test loss: 0.5780, train acc: 75.7360% , test acc: 80.2100%
+finish epoch 36 training in 186.0953 s
+finish epoch 36 testing in 23.9092 s
+[alexnet] finish epoch 36, train loss: 0.4701, test loss: 0.6016, train acc: 76.0580% , test acc: 80.0400%
+finish epoch 37 training in 155.1183 s
+finish epoch 37 testing in 27.8544 s
+[alexnet] finish epoch 37, train loss: 0.5667, test loss: 0.5639, train acc: 76.6340% , test acc: 81.1400%
+finish epoch 38 training in 156.3938 s
+finish epoch 38 testing in 20.3789 s
+[alexnet] finish epoch 38, train loss: 0.7171, test loss: 0.5429, train acc: 76.6260% , test acc: 81.5100%
+finish epoch 39 training in 182.7725 s
+finish epoch 39 testing in 18.4377 s
+[alexnet] finish epoch 39, train loss: 0.4720, test loss: 0.5528, train acc: 76.7820% , test acc: 81.6900%
+finish epoch 40 training in 162.3949 s
+finish epoch 40 testing in 28.4328 s
+[alexnet] finish epoch 40, train loss: 0.4955, test loss: 0.5657, train acc: 77.0900% , test acc: 81.1100%
+finish epoch 41 training in 145.2468 s
+finish epoch 41 testing in 22.3706 s
+[alexnet] finish epoch 41, train loss: 0.3364, test loss: 0.5381, train acc: 77.4200% , test acc: 81.8900%
+finish epoch 42 training in 174.1678 s
+finish epoch 42 testing in 24.6579 s
+[alexnet] finish epoch 42, train loss: 0.3114, test loss: 0.5425, train acc: 77.5740% , test acc: 81.8500%
+finish epoch 43 training in 167.9912 s
+finish epoch 43 testing in 22.3116 s
+[alexnet] finish epoch 43, train loss: 0.4790, test loss: 0.5387, train acc: 77.7380% , test acc: 81.9400%
+finish epoch 44 training in 159.0166 s
+finish epoch 44 testing in 27.7987 s
+[alexnet] finish epoch 44, train loss: 0.6087, test loss: 0.5361, train acc: 77.7920% , test acc: 81.7500%
+finish epoch 45 training in 165.3819 s
+finish epoch 45 testing in 22.6369 s
+[alexnet] finish epoch 45, train loss: 0.7065, test loss: 0.5379, train acc: 77.8660% , test acc: 81.9700%
+finish epoch 46 training in 131.5714 s
+finish epoch 46 testing in 23.0843 s
+[alexnet] finish epoch 46, train loss: 0.4000, test loss: 0.5360, train acc: 78.2900% , test acc: 82.1300%
+finish epoch 47 training in 161.4926 s
+finish epoch 47 testing in 24.9547 s
+[alexnet] finish epoch 47, train loss: 0.5604, test loss: 0.5364, train acc: 78.4320% , test acc: 82.1200%
+finish epoch 48 training in 154.8802 s
+finish epoch 48 testing in 23.1069 s
+[alexnet] finish epoch 48, train loss: 0.5381, test loss: 0.5314, train acc: 78.2900% , test acc: 82.3900%
+finish epoch 49 training in 149.3838 s
+finish epoch 49 testing in 26.9729 s
+[alexnet] finish epoch 49, train loss: 0.5896, test loss: 0.5301, train acc: 78.3700% , test acc: 82.3500%
+finish epoch 50 training in 165.0529 s
+finish epoch 50 testing in 25.4271 s
+[alexnet] finish epoch 50, train loss: 0.5123, test loss: 0.5308, train acc: 78.4700% , test acc: 82.3100%

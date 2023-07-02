@@ -1,0 +1,51 @@
+/Users/lego/opt/anaconda3/envs/torch_nightly_env/bin/python /Users/lego/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/231.9161.41/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevconsole.py --mode=client --host=127.0.0.1 --port=49858
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['/Users/lego/PycharmProjects/5541_Assignment1'])
+PyDev console: starting.
+Python 3.9.16 (main, May 15 2023, 18:51:40)
+[Clang 14.0.6 ] on darwin
+runfile('/Users/lego/PycharmProjects/5541_Assignment1/main_q3a_20%.py', wdir='/Users/lego/PycharmProjects/5541_Assignment1')
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+2023-07-02 15:54:27.710197 - Epoch [1/20], Step [625/625], Loss: 0.4859
+[20%] Accuracy of the network on the 5000 validation images: 81.73 %
+2023-07-02 16:06:54.122155 - Epoch [2/20], Step [625/625], Loss: 0.3906
+[20%] Accuracy of the network on the 5000 validation images: 82.43 %
+2023-07-02 16:12:20.642672 - Epoch [3/20], Step [625/625], Loss: 0.4572
+[20%] Accuracy of the network on the 5000 validation images: 84.45 %
+2023-07-02 16:17:37.876876 - Epoch [4/20], Step [625/625], Loss: 0.3841
+[20%] Accuracy of the network on the 5000 validation images: 83.18 %
+2023-07-02 16:22:43.409520 - Epoch [5/20], Step [625/625], Loss: 0.2682
+[20%] Accuracy of the network on the 5000 validation images: 78.21 %
+2023-07-02 16:27:49.077640 - Epoch [6/20], Step [625/625], Loss: 0.4661
+[20%] Accuracy of the network on the 5000 validation images: 83.9 %
+2023-07-02 16:33:08.234608 - Epoch [7/20], Step [625/625], Loss: 0.3674
+[20%] Accuracy of the network on the 5000 validation images: 81.49 %
+2023-07-02 16:38:15.465256 - Epoch [8/20], Step [625/625], Loss: 0.4607
+[20%] Accuracy of the network on the 5000 validation images: 82.37 %
+2023-07-02 16:43:14.654030 - Epoch [9/20], Step [625/625], Loss: 0.4490
+[20%] Accuracy of the network on the 5000 validation images: 84.24 %
+2023-07-02 16:47:28.590930 - Epoch [10/20], Step [625/625], Loss: 0.2503
+[20%] Accuracy of the network on the 5000 validation images: 81.15 %
+2023-07-02 16:50:19.892837 - Epoch [11/20], Step [625/625], Loss: 0.5197
+[20%] Accuracy of the network on the 5000 validation images: 81.86 %
+2023-07-02 16:53:06.945076 - Epoch [12/20], Step [625/625], Loss: 0.4511
+[20%] Accuracy of the network on the 5000 validation images: 83.45 %
+2023-07-02 16:55:30.871601 - Epoch [13/20], Step [625/625], Loss: 0.2893
+[20%] Accuracy of the network on the 5000 validation images: 82.78 %
+2023-07-02 16:58:22.195043 - Epoch [14/20], Step [625/625], Loss: 0.4251
+[20%] Accuracy of the network on the 5000 validation images: 83.8 %
+2023-07-02 17:01:17.084653 - Epoch [15/20], Step [625/625], Loss: 0.4544
+[20%] Accuracy of the network on the 5000 validation images: 79.53 %
+2023-07-02 17:03:38.507425 - Epoch [16/20], Step [625/625], Loss: 0.2824
+[20%] Accuracy of the network on the 5000 validation images: 81.52 %
+2023-07-02 17:06:28.636653 - Epoch [17/20], Step [625/625], Loss: 0.4243
+[20%] Accuracy of the network on the 5000 validation images: 83.23 %
+2023-07-02 17:09:13.520571 - Epoch [18/20], Step [625/625], Loss: 0.5709
+[20%] Accuracy of the network on the 5000 validation images: 82.32 %
+2023-07-02 17:11:38.385040 - Epoch [19/20], Step [625/625], Loss: 0.2540
+[20%] Accuracy of the network on the 5000 validation images: 83.16 %
+2023-07-02 17:14:23.564958 - Epoch [20/20], Step [625/625], Loss: 0.3311
+[20%] Accuracy of the network on the 5000 validation images: 80.66 %
+[20%] Accuracy of the network on the 10000 test images: 79.45 %
